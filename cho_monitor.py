@@ -13,7 +13,7 @@ from tkinter import messagebox
 # CONFIGURAÇÕES E VARIÁVEIS (AMBIENTE DA EMPRESA)
 # =========================
 CAMINHO_CSV = Path("Y:/cho_events.csv")
-TEAMS_WEBHOOK = "https://tvglobocorp.webhook.office.com/webhookb2/5c173623-bbb4-4b2b-8b27-b24bb79cc608@a7cdc447-3b29-4b41-b73e-8a2cb54b06c6/IncomingWebhook/b641b84b605140f88cf1d19279f5f217/75ff6086-928c-4f6a-8ccd-e91046844574/V2Cgqq1d4HaGjEgLgalG1f41C8IAUIw-XaVVbBwE3M4So1"
+TEAMS_WEBHOOK = "" # link não incluído por privacidade e segurança
 ARQUIVO_CONTROLE = "historico.json"
 INTERVALO_SEGUNDOS = 120
 
